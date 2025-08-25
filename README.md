@@ -1,6 +1,6 @@
 # Numbers Addition GUI Project
 
-A **simple yet interactive Java project** built using **NetBeans** that allows users to **add two numbers** through a **graphical user interface (GUI)**. Perfect for beginners or interns learning Java GUI development.
+A **simple yet interactive Java project** built using **NetBeans** that allows users to **add two numbers** through a **graphical user interface (GUI)**. 
 
 ---
 
