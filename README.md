@@ -16,7 +16,7 @@ A **simple yet interactive Java project** built using **NetBeans** that allows u
 
 ## 🖥 Screenshots
 
-> Replace these placeholders with actual screenshots from your project.
+
 
 ### Main Window
 <img width="481" height="390" alt="image" src="https://github.com/user-attachments/assets/622b3d8b-7e40-4609-a312-64205b58db4a" />
